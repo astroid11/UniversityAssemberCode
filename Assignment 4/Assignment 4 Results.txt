@@ -1,0 +1,10 @@
+0 Cubed / 5 = 0
+1 Cubed / 5 = 0.2
+2 Cubed / 5 = 1.6
+3 Cubed / 5 = 5.4
+4 Cubed / 5 = 12.8
+5 cubed / 5 = 25
+6 cubed / 5 = 43.2
+7 cubed / 5 = 68.6
+8 cubed / 5 = 102.4
+9 cubed / 5 = 145.87
